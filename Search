@@ -1,0 +1,14 @@
+public class Search{
+
+    /** Create a search object for integer arr searching
+     * 
+     * @param arr : Integer array input
+     * 
+     **/
+    public Search(int... arr){
+    }
+
+    public void linearSearch(int target){
+        
+    }
+}
